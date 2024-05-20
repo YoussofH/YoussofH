@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssof Hammoud</h1>
-<h3 align="center">A passionate backend developer from Beirut, Lebanon.</h3>
+<h3 align="center">A passionate backend developer from Lebanon.</h3>
 
 - 🔭 I’m currently working on [Minedev](https://github.com/YoussofH/Minedev)
 
