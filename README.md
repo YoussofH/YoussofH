@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssof Hammoud</h1>
-<h3 align="center">A passionate backend developer from Lebanon.</h3>
+<h3 align="center">A passionate backend developer from Beirut, Lebanon.</h3>
 
 - 🔭 I’m currently working on [Minedev](https://github.com/YoussofH/Minedev)
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/youssof-hammoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssof-hammoud" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4061346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4061346" height="30" width="40" /></a>
 </p>
 
